@@ -1,0 +1,24 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Local Gradle user-home caches created for troubleshooting
+.gradle-user-home/
+.gradle-user-home-2/
+.gradle-user-home-3/
+
+# Module build output
+app/build/
+
